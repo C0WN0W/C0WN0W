@@ -1,4 +1,5 @@
-## Hi there 👋
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C0WN0W&layout=compact&icon_color=0366d6&theme=dark)]()
+
 
 <!--
 **C0WN0W/C0WN0W** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
