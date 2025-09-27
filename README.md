@@ -1,6 +1,9 @@
-### 安卓思维，安卓电脑，安卓代码，安卓驱动，安卓注入，安卓外挂
+### 安卓思维，安卓电脑，安卓代码，安卓算法，安卓驱动，安卓外挂
 
+
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C0WN0W&layout=compact&icon_color=0366d6&theme=dark)]()
+-->
 
 <!--
 **C0WN0W/C0WN0W** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
