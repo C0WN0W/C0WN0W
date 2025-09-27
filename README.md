@@ -1,5 +1,4 @@
-### 安卓思维，安卓电脑，安卓代码，安卓算法，安卓驱动，安卓外挂
-
+![EAC](https://github.com/C0WN0W/C0WN0W/blob/main/Image/EAC.png)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C0WN0W&layout=compact&icon_color=0366d6&theme=dark)]()
